@@ -14,7 +14,7 @@
 ```js
 const stack = {
   frontend: ["Vue.js", "React", "Next.js", "TypeScript", "TailwindCSS", "Quasar"],
-  backend: ["PHP", "Laravel", "Node.js", "Node-Red],
+  backend: ["PHP", "Laravel", "Node.js", "Node-Red"],
   database: ["MySQL", "PostgreSQL"],
   devOps: ["Git", "GitHub Actions", "Docker"],
   outros: ["Figma", "Postman", "Swagger", "Jira"]
