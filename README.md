@@ -1,94 +1,94 @@
-<h1 align="center">👨‍💻 Gustavo Vinicius</h1>
+<!-- ========================= -->
+
+<!--  GitHub Profile README    -->
+
+<!-- ========================= -->
+
+<h1 align="center">Gustavo Vinicius</h1>
 
 <p align="center">
-  <strong>Software Engineer | Full Stack Developer</strong><br>
-  Building scalable, high-performance, and well-structured software solutions.
+  <a href="https://github.com/SEU_USUARIO_GITHUB">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;Laravel+%26+Node.js+Backend+Focus;React%2FNext.js+%26+Vue+on+the+Frontend;Clean+Code+%7C+Performance+%7C+Scalability" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  Strong focus on <strong>backend development with Laravel and Node.js</strong>,  
-  modern web applications using <strong>React, Next.js, and Vue</strong>,  
-  and robust system integrations.
+  <a href="https://www.linkedin.com/in/gustavoviniciusdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://gustavovinicius.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:SEU_EMAIL" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" width="520"/>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=flat-square&color=6b7280" alt="Profile views"/>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I am a software engineer with hands-on experience building **end-to-end web applications**, working across backend, frontend, and system integrations.
+I’m a **Software Engineer** focused on building **scalable, high-performance applications** with strong attention to **architecture, maintainability, and clean code**.
 
-I care deeply about:
-
-* Clean and maintainable code
-* Software architecture and best practices
-* Performance and scalability
-* Real-world business logic
-* Long-term maintainability
-
-I usually work on **production systems**, dealing with real users, real data, and real constraints.
+* 🔧 Backend: **Laravel / PHP**, **Node.js**, APIs & integrations
+* 🧩 Frontend: **React / Next.js**, **Vue.js**, **TypeScript**, **Tailwind CSS**
+* 🗄️ Databases: **MySQL**, **PostgreSQL**, **Redis**
+* ⚙️ DevOps: **Docker**, **GitHub Actions**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-```js
-const stack = {
-  frontend: [
-    "React",
-    "Next.js",
-    "Vue.js",
-    "TypeScript",
-    "Tailwind CSS",
-    "Quasar"
-  ],
-  backend: [
-    "PHP",
-    "Laravel",
-    "Node.js",
-    "Node-RED"
-  ],
-  database: [
-    "MySQL",
-    "PostgreSQL",
-    "Redis"
-  ],
-  devOps: [
-    "Docker",
-    "Git",
-    "GitHub Actions"
-  ],
-  tools: [
-    "Figma",
-    "Postman",
-    "Swagger",
-    "Jira"
-  ]
-};
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,ts,react,nextjs,vue,tailwind,postgres,mysql,redis,docker,git,githubactions,figma&perline=8" />
+</p>
 
 ---
 
-## 📌 What You'll Find Here
+## 📊 GitHub Analytics
 
-* Personal and professional projects
-* Well-structured REST APIs
-* Frontend and backend integrations
-* Studies on architecture, performance, and best practices
-* Practical solutions for real-world problems
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=false" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
+## 🐍 Contribution Snake (animated)
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/gustavoviniciusdev](https://www.linkedin.com/in/gustavoviniciusdev)
-* 🌍 Portfolio: [https://gustavovinicius.vercel.app](https://gustavovinicius.vercel.app)
+> This shows your contribution graph as an animation.
+
+<p align="center">
+  <img src="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+<!-- Replace with your best repos -->
+
+* 🚀 **Project Name** — short description (Tech: Laravel, React, PostgreSQL)
+* ⚡ **Project Name** — short description (Tech: Node.js, Vue, Redis)
+* 🧠 **Project Name** — short description (Tech: Next.js, TypeScript, Tailwind)
+
+---
+
+## 🤝 Let’s Connect
+
+* 💼 LinkedIn: [https://www.linkedin.com/in/gustavoviniciusdev/](https://www.linkedin.com/in/gustavoviniciusdev/)
+* 🌍 Portfolio: [https://gustavovinicius.vercel.app/](https://gustavovinicius.vercel.app/)
 
 ---
 
 <p align="center">
-  <i>"Well-built software solves problems. Well-written code prevents new ones."</i>
+  <i>“Well-built software solves problems. Well-written code prevents new ones.”</i>
 </p>
