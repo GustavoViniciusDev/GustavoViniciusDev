@@ -1,9 +1,3 @@
-<!-- ========================= -->
-
-<!--  GitHub Profile README    -->
-
-<!-- ========================= -->
-
 <h1 align="center">Gustavo Vinicius</h1>
 
 <p align="center">
@@ -62,33 +56,8 @@ I’m a **Software Engineer** focused on building **scalable, high-performance a
 
 ---
 
-## 🐍 Contribution Snake (animated)
-
-> This shows your contribution graph as an animation.
-
-<p align="center">
-  <img src="https://github.com/GustavoViniciusDev/GustavoViniciusDev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🧩 Featured Projects
-
-<!-- Replace with your best repos -->
-
-* 🚀 **Project Name** — short description (Tech: Laravel, React, PostgreSQL)
-* ⚡ **Project Name** — short description (Tech: Node.js, Vue, Redis)
-* 🧠 **Project Name** — short description (Tech: Next.js, TypeScript, Tailwind)
-
----
-
 ## 🤝 Let’s Connect
 
 * 💼 LinkedIn: [https://www.linkedin.com/in/gustavoviniciusdev/](https://www.linkedin.com/in/gustavoviniciusdev/)
 * 🌍 Portfolio: [https://gustavovinicius.vercel.app/](https://gustavovinicius.vercel.app/)
 
----
-
-<p align="center">
-  <i>“Well-built software solves problems. Well-written code prevents new ones.”</i>
-</p>
