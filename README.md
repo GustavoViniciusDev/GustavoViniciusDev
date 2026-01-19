@@ -1,7 +1,7 @@
 <h1 align="center">Gustavo Vinicius</h1>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO_GITHUB">
+  <a href="https://github.com/GustavoViniciusDev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;Laravel+%26+Node.js+Backend+Focus;React%2FNext.js+%26+Vue+on+the+Frontend;Clean+Code+%7C+Performance+%7C+Scalability" alt="Typing SVG" />
   </a>
 </p>
@@ -13,7 +13,7 @@
   <a href="https://gustavovinicius.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
+  <a href="mailto:gustavo.vinicius.caes@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
