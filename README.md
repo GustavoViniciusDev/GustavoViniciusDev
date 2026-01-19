@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=flat-square&color=6b7280" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=GustavoViniciusDev&style=flat-square&color=6b7280" alt="Profile views"/>
 </p>
 
 ---
@@ -52,12 +52,12 @@ I’m a **Software Engineer** focused on building **scalable, high-performance a
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GustavoViniciusDev&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoViniciusDev&layout=compact&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&hide_border=false" />
+  <img height="170" src="https://streak-stats.demolab.com?user=GustavoViniciusDev&hide_border=false" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ I’m a **Software Engineer** focused on building **scalable, high-performance a
 > This shows your contribution graph as an animation.
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/GustavoViniciusDev/GustavoViniciusDev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
